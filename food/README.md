@@ -1,16 +1,22 @@
-# food
+# Sneaker E-commerce App UI
 
-A new Flutter project.
+An interactive user interface for a sneaker shopping application.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+- Scrollable product list
+- Detailed sneaker view on click
+- Add to cart functionality
+- Remove from cart option
 
-A few resources to get you started if this is your first Flutter project:
+## UI Components
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Product grid
+- Product detail modal
+- Shopping cart
+- Interactive buttons (Add/Remove)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Tech Stack
+
+- Flutter
+- Dart
