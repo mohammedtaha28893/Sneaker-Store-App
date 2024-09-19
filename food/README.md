@@ -4,7 +4,7 @@ An interactive user interface for a sneaker shopping application.
 
 ## Features
 
-- Scrollable product list
+- Swipeable product list
 - Detailed sneaker view on click
 - Add to cart functionality
 - Remove from cart option
